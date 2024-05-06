@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assisgment2</string>
+    <string name="textView">Heading</string>
+    <string name="imageView">ImageJerry</string>
+    <string name="textView2">Hunger</string>
+    <string name="textView6">Clean</string>
+    <string name="textView5">Happy</string>
+    <string name="button4">FeedButton</string>
+    <string name="button2">CleanButton</string>
+    <string name="button">PlayButton</string>
+    <string name="button6">StartGame</string>
+
+</resources>
